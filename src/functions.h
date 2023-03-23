@@ -20,7 +20,7 @@ bool set_Matrix(uint8_t col,int (*mat)[col],FILE *arq);
 void print_Matrix(uint8_t col,int (*mat)[col]);
 void joystick(uint8_t col,int (*mat)[col], uint8_t sz,stance *st);
 void set_size(FILE *arq,uint8_t *sz,uint8_t *col);
-void set_stance(FILE *arq,stance *st,uint8_t col,int (*mat)[col]);
+void set_stance(stance *st,uint8_t col,int (*mat)[col]);
 void Total_sum();
 
 #endif

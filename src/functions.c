@@ -6,7 +6,7 @@ void set_size(FILE *arq,uint8_t *sz,uint8_t *col){
 	printf("TAMANHO: %hhd %hhd\n",*sz,*sz);
 }
 
-void set_stance(FILE *arq,stance *st,uint8_t col,int (*mat)[col]){
+void set_stance(stance *st,uint8_t col,int (*mat)[col]){
 	printf(BRIGHT_CYAN "\nPOSIÇÃO INICIAL (lin col):" NO_COLOR);
 	scanf("%hhd %hhd",&st->i,&st->j);sum+=mat[st->i][st->j];mat[st->i][st->j]=0;st->S_value=0;
 }
@@ -69,13 +69,13 @@ void joystick(uint8_t col,int (*mat)[col], uint8_t sz,stance *st){
 			aux=0;
 			mat[st->i][st->j]=0;
 		}
-		printf("\nSOMA: %d\n",sum);
 		print_Matrix(col,mat);
+		printf(BRIGHT_CYAN "\nSOMA (INDIVIDUAL): %d\n"NO_COLOR,sum);
 		total+=sum;
 		st->i=0;st->j=0;st->S_value=0;sum=0;final=0;	
 		printf(sep);
 }
 
 void Total_sum(){
-	printf(BRIGHT_CYAN"SOMA TOTAL ATUAL: %d\n"NO_COLOR, total);
+	printf(BRIGHT_CYAN"\nSOMA TOTAL (TODAS AS MATRIZES): %d\n"NO_COLOR, total);
 }
