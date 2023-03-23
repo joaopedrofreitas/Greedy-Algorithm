@@ -26,7 +26,6 @@
     <li><strong>Após a atribuição do tamanho da matriz e de sua posição inicial, ocorre o chamado da função joystick, que realizara o "caminhamento"</br>na matriz.</strong></li>
     <strong><i>Parte localizada nas linhas 9 a 21 do arquivo main.c</i></strong>
     </br>
-    <img src="https://github.com/joaopedrofreitas/Greedy-Algorithm/issues/1#issue-1638428169">
     </br>
     <h2><u>Caminhamento 🥾:</u></h2>  
     <li><strong>Tomando em conta que a posição inicial esta armazenda na váriavel "st" da struct "stance" , a analise para verificar</br>
@@ -49,7 +48,6 @@
     <li><strong>A cada nova posição os valores são acumulados para depois resultar na soma dos caminhos da matriz</br>
     após o caminhamento de uma matriz a soma é guardada em outra váriavel que é a soma global(todas as matrizes).
     </strong></li>
-    <img src="https://github.com/joaopedrofreitas/Greedy-Algorithm/blob/78d4b468b8792d2801bbbeeb9c0dc91b0dc1ba48/src/functions.c#L36-L77">
   </p>
 <h1>Exemplo de execução</h1>
   <p>
