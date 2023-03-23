@@ -1,9 +1,9 @@
 <head><h1 align="middle"><i><u>Algoritimo Guloso</u></i></h1></head>
 <h1>Introdução e Objetivos📃</h1>
-  <p>Esse Algoritimo efetua um caminhamento de uma matriz de forma gulosa (greedy Algorithm). O caminhamento se dá</br>
-    através da escolha do maior número que está a volta da posição atual como sua próxima posição.Com objetivo final de chegar</br>
-    a extrema diagonal inferior direita de uma determinada matriz. As entradas deste algoritimo são matrizes de inteiros</br>
-    do arquivo input.data localizado na pasta dataset. Ao fim do caminhamento de uma matriz, é imprimido na tela a soma total </br>
+  <p>Esse Algoritimo efetua um caminhamento de uma matriz de forma gulosa (greedy Algorithm). O caminhamento se dá
+    através da escolha do maior número que está a volta da posição atual como sua próxima posição.Com objetivo final de chegar
+    a extrema diagonal inferior direita de uma determinada matriz. As entradas deste algoritimo são matrizes de inteiros
+    do arquivo input.data localizado na pasta dataset. Ao fim do caminhamento de uma matriz, é imprimido na tela a soma total
     de todas as posições que foram "caminhadas" nesta matriz, podendo, assim prosseguir para a proxima matriz.
     <h3>Objetivos alcançados 📌</h3>
     <ul>
