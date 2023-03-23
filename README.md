@@ -28,6 +28,7 @@
     </br>
     </br>
     <h2><u>Caminhamento 🥾:</u></h2>  
+    <u><i><b>Todas as linhas referenciadas são do arquivo functions.c.</b><i></u></br>
     <li><strong>Tomando em conta que a posição inicial esta armazenda na váriavel "st" da struct "stance" , a analise para verificar</br>
     o maior número em volta começa á partir dos valores de i e j da variavel.</strong></li>
     <ul><li>-i ➡️ valor da linha</li><li>-j ➡️ valor da coluna</li></ul>
