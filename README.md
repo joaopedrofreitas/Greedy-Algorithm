@@ -1,4 +1,5 @@
 <head><h1 align="middle"><i><u>Algoritimo Guloso</u></i></h1></head>
+<img src="https://camo.githubusercontent.com/5859172b2d0854f4d70d35118ae1fbb8d92f967ea654f1bb1bdae4a346d03926/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465">
 <h1>Introdução e Objetivos📃</h1>
   <p>Esse Algoritimo efetua um caminhamento de uma matriz de forma gulosa (greedy Algorithm). O caminhamento se dá
     através da escolha do maior número que está a volta da posição atual como sua próxima posição.Com objetivo final de chegar
