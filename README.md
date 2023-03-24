@@ -24,7 +24,7 @@
     <ul><li>A atribuição da posição se dá através de um struct, armazenando a linha e a coluna, além do valor</br>da determinada posição.</li></ul>
     <ul><li>-[❌]Não há o tramento caso o usuário digite uma posição inexistente na matriz</li></ul>
     <li><strong>Após a atribuição do tamanho da matriz e de sua posição inicial, ocorre o chamado da função joystick, que realizara o "caminhamento"</br>na matriz.</strong></li>
-    <strong><i>Parte localizada nas linhas 9 a 21 do arquivo main.c</i></strong>
+    <strong><i>Esta parte localizada nas linhas 9 a 21 do arquivo main.c</i></strong>
     </br>
     </br>
     <h2><u>Caminhamento 🥾:</u></h2>  
@@ -37,7 +37,7 @@
     </strong></li>
     <li><strong>Em caso de empate de valores o programa prioriza as seguintes direções</strong></li>
     <ul>
-    <li>Diagona inferior direita↘️</li>
+    <li>Diagonal inferior direita↘️</li>
     <li>Direita➡️</li>
     <li>Diagonal inferior esquerda↙️</li>
     <li>Esquerda⬅️</li>
@@ -78,4 +78,10 @@
     </table>
     <i>Para a execução do programa utilize <u>make</u> para realizar a compilação e logo após utilize <u>make run</u> para executar o programa</i>
   </p>
+<h1>Autor</h1>
+<p>
+   João Pedro Freitas de Paula Dias.</br>
+   3°Período <i>Engenharia da computação-CEFET-MG</i></br>
+   email: joaopedrofdpd2205@gmail.com
+</p>
 
