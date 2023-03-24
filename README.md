@@ -55,7 +55,7 @@
     <i><strong>Arquivo de entrada do programa (uma matriz 7x7): </strong></i></br>
     <img src="img/Matriz7x7.png"></br>
     <i><strong>Saída do programa: </strong></i></br>
-    <img src="img/SaídaMatriz7x7.png" width="27%" height="27%">
+    <img src="img/SaídaMatriz7x7.png" width="40%" height="40%">
     <li><i>O caminho andado é marcado pelo número 0, e logo abaixo da matriz é imprimida a soma do caminho da matriz.</br>
     Ao final da execução também é impresso na tela a soma global.</i>
     </li>
